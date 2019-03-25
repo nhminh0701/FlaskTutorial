@@ -6,3 +6,5 @@ From this project you can learn about following thing of python
 * Inheritance
 * Package
 * And some other advance stuff
+
+When you download this package (thank u Corey for teaching me how to make this structure), run ``run.py`` and open the localhost or ``http://127.0.0.1:5000/``
